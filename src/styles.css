@@ -1,0 +1,136 @@
+.restaurant-image {
+  width: 200px;
+  height: 100%;
+  flex: 1;
+}
+
+p {
+  font-size: 14px;
+  line-height: 19px;
+  color: 828585;
+  margin-right: 150px;
+}
+
+.restaurant-item {
+  display: flex;
+}
+
+.restaurant-text {
+  flex: 2;
+}
+
+.menu-description {
+  width: 200px;
+}
+
+.menu-container {
+  display: flex;
+}
+
+.menu-item {
+  flex: 1;
+}
+
+.menu-image {
+  width: auto;
+  height: 100px;
+}
+
+/* .header {
+  border-bottom: solid 1px lightgray;
+}
+
+.logo-container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.logo-image {
+  width: 150px;
+}
+
+.menu-background {
+  background-color: rgb(243, 245, 245);
+}
+
+.menu {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.item-card {
+  height: 120px;
+  width: calc(50% - 30px);
+  display: flex;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.card-label {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.card-content {
+  flex: 1;
+}
+
+.card-description {
+  color: grey;
+  font-size: 13px;
+}
+
+.price-popular-container {
+  display: flex;
+}
+
+.card-price {
+  color: grey;
+  margin-right: 5px;
+}
+
+.card-popular {
+  color: orange;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.meal-image-container > img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.description-container {
+  width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  padding: 20px 0;
+}
+
+.title-description {
+  padding: 5px 20px 5px 0;
+}
+
+.description-text {
+  color: grey;
+  font-size: 13px;
+}
+
+.image-container > img {
+  width: 370px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+} */
